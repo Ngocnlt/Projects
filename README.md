@@ -6,7 +6,7 @@ NT204: Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập
 
 NT132: Quản trị mạng vả hệ thống
 
-NT101: An toàn mạng 
+NT140: An toàn mạng 
 
 NT230: Cơ chế hoạt động của mã độc
 
