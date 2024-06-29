@@ -1,0 +1,9 @@
+PC_A sudo ip link set PC_A-eth0 down
+PC_A sudo ip link set PC_A-eth0 address 00:00:00:00:00:01
+PC_A sudo ip link set PC_A-eth0 up
+PC_B sudo ip link set PC_B-eth0 down
+PC_B sudo ip link set PC_B-eth0 address 00:00:00:00:00:02
+PC_B sudo ip link set PC_B-eth0 up
+PC_C sudo ip link set PC_C-eth0 down
+PC_C sudo ip link set PC_C-eth0 address 00:00:00:00:00:03
+PC_C sudo ip link set PC_C-eth0 up

@@ -1,0 +1,1 @@
+sudo ovs-appctl ofproto/trace s1 ip,nw_src=192.168.7.10,nw_dst=192.168.7.30,dl_src=00:00:00:00:00:01,dl_dst=00:00:00:00:00:03

@@ -1,0 +1,15 @@
+Demo 1: Routing trên Open vSwitch
+
+https://youtu.be/C7Y_QJcx2kQ
+
+Demo 2: Triển khai vlan trunking trên Open vSwitch
+
+https://youtu.be/PBdpSV2ID5g
+
+Demo 3: Triển khai QoS trên Open vSwitch
+
+https://youtu.be/Omc0wC2DwOg
+
+Demo 4: Triển khai ACL trên Open vSwitch
+
+https://youtu.be/OY4vPRpbz7s

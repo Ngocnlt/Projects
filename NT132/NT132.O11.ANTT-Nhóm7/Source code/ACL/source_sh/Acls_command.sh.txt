@@ -1,0 +1,9 @@
+#Tao ACE dau tien cho table 0
+sudo ovs-ofctl add-flow s1 table=0,priority=40000,ip,nw_src=192.168.7.30,nw_dst=192.168.7.10,action=drop
+
+#Tao ACE thu hai cho table 0
+sudo ovs-ofctl add-flow s1 table=0,action=goto_table=1
+
+#Tao ACE cho table 1
+sudo ovs-ofctl add-flow s1 table=1,action=normal
+
