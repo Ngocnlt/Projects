@@ -1,5 +1,7 @@
 Các đồ án môn học đã làm trong quá trình học 
 
+NT114: Đồ án chuyên ngành
+NT205: Tấn công mạng
 NT330: An toàn mạng không dây và di động
 
 NT204: Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập
